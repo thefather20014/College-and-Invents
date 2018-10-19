@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group Botton</string>
+    <string name="txt_text">First Value</string>
+    <string name="txt_text2">Second Value</string>
+    <string name="radio">Add</string>
+    <string name="radio2">Subtract</string>
+    <string name="radio3">Multiply</string>
+    <string name="radio4">Divide</string>
+    <string name="boton">Calculate</string>
+    <string name="result">Result</string>
+</resources>
